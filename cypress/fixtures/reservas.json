@@ -1,0 +1,44 @@
+{
+  "invitadoValido": {
+    "firstname": "Alexis",
+    "lastname": "Automation",
+    "email": "alexis@qa.com",
+    "phone": "12345678901"
+  },
+  "invitadoBugPantallaNegra": {
+    "firstname": "Bug",
+    "lastname": "Pantalla",
+    "email": "bug@pantalla.com",
+    "phone": "12345678901"
+  },
+  "invitadoNombreNumero": {
+    "firstname": "123456",
+    "lastname": "123456",
+    "email": "numeros@test.com",
+    "phone": "12345678901"
+  },
+  "invitadoTelefonoLetras": {
+    "firstname": "Alexis",
+    "lastname": "Automation",
+    "email": "letras@test.com",
+    "phone": "asdfghjklq12345"
+  },
+  "invitadoBorde": {
+    "firstname": "Ana",
+    "lastname": "Gomez Perez Dominguez Lopezito",
+    "email": "borde@test.com",
+    "phone": "12345678901"
+  },
+  "invitadoTelefono10": {
+    "firstname": "Alexis",
+    "lastname": "Automation",
+    "email": "test@qa.com",
+    "phone": "1234567890"
+  },
+  "invitadoEmailInvalido": {
+    "firstname": "Alexis",
+    "lastname": "Automation",
+    "email": "usuario@a",
+    "phone": "12345678901"
+  }
+}

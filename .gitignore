@@ -1,0 +1,14 @@
+# Dependencias
+node_modules/
+
+# Archivos de Cypress generados automáticamente
+cypress/screenshots/
+cypress/videos/
+cypress/downloads/
+
+# Archivos de sistema
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
