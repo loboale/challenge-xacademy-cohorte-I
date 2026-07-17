@@ -1,5 +1,6 @@
 // cypress/support/e2e.js
 import '../commands/reservationCommands';
+import '../commands/contactCommands';
 
 Cypress.on('uncaught:exception', (err) => {
   // Ignorar errores de React (bug de la app)

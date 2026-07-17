@@ -1,0 +1,30 @@
+{
+  "contactoValido": {
+    "name": "Alexis",
+    "email": "alexis@qa.com",
+    "phone": "12345678901",
+    "subject": "Consulta general",
+    "message": "Este es un mensaje de prueba válido para verificar el formulario de contacto."
+  },
+  "contactoTelefonoLetras": {
+    "name": "Alexis",
+    "email": "alexis@qa.com",
+    "phone": "abcdefghijk",
+    "subject": "Prueba phone con letras",
+    "message": "Mensaje de prueba para verificar si el campo Phone acepta caracteres alfabéticos."
+  },
+  "contactoNombreNumeros": {
+    "name": "123456789",
+    "email": "juan.perez@test.com",
+    "phone": "11223344556",
+    "subject": "Prueba name con numeros",
+    "message": "Mensaje de prueba para verificar si el campo Name acepta caracteres numéricos."
+  },
+  "contactoEmailInvalido": {
+    "name": "Alexis",
+    "email": "usuario@a",
+    "phone": "11223344556",
+    "subject": "Prueba email inválido",
+    "message": "Mensaje de prueba con email sin dominio completo."
+  }
+}
