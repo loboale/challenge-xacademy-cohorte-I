@@ -72,7 +72,7 @@ challenge-xacademy-cohorte-I/
 
 Todos los bugs encontrados durante las pruebas exploratorias y automatizadas están documentados en **Trello**, siguiendo un formato profesional con evidencia, pasos para reproducir y severidad.
 
-🔗 **Tablero de Trello:** [Challenge Final - QA Automation - Xacademy](https://trello.com/b/mOcLzyuJ)
+🔗 **Tablero de Trello:** [Challenge Final - QA Automation - Xacademy](https://trello.com/b/FIDYVuCB)
 
 **Bugs críticos encontrados:**
 - `BUG-SHADY-001`: Fechas invertidas provocan error 409 y pantalla negra.
