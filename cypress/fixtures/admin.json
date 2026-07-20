@@ -1,0 +1,25 @@
+{
+  "adminValido": {
+    "username": "admin",
+    "password": "password"
+  },
+  "adminInvalido": {
+    "username": "admin",
+    "password": "wrongpassword"
+  },
+  "nuevaHabitacion": {
+    "roomNumber": "105",
+    "type": "Single",
+    "price": "99",
+    "wifi": true
+  },
+    "habitacionDuplicada": {
+    "roomNumber": "101",
+    "type": "Double",
+    "price": "150",
+    "wifi": false
+  },
+    "nuevoTelefono": {
+    "phone": "1234567890"
+  }
+}
