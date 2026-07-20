@@ -13,7 +13,7 @@ El objetivo es demostrar habilidades de testing automation real, incluyendo dete
 
 ## 🗂️ Estructura del Proyecto
 
-\`\`\`
+```text
 challenge-xacademy-cohorte-I/
 ├── cypress/
 │   ├── e2e/                    # Especificaciones de prueba (specs)
@@ -27,7 +27,7 @@ challenge-xacademy-cohorte-I/
 ├── .gitignore
 ├── README.md
 └── package.json
-\`\`\`
+```
 
 ## 🧪 Módulos y Tests Automatizados
 
